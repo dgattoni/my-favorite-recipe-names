@@ -8,7 +8,8 @@ var recipes = [
   "Calzones rotos",
   "Carbonada de pollo",
   "Cazuela de Ave",
-  "Pastel de choclo"
+  "Pastel de choclo",
+  "Caipirinha"
 ]
 
 function myRandomRecipe() {
