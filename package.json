@@ -1,6 +1,6 @@
 {
   "name": "my-favorite-recipe-names",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "My favorite recipe suggestions",
   "main": "src/index.js",
   "scripts": {
